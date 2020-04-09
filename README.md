@@ -1,2 +1,2 @@
-# islamgulov_galiahkmet.github.io
-Root Repository
+# Исламгулов Галиахмет
+Персональный сайт-портфолио
